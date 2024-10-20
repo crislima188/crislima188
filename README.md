@@ -1,14 +1,34 @@
-👋 Olá, sou @crislima188
-👀 Estou interessada em tecnologia, programação e novas metodologias de ensino.
-🌱 Atualmente estou aprendendo desenvolvimento web com foco em JavaScript e React.
-💞️ Estou procurando colaborar em projetos de código aberto relacionados à educação ou à inclusão digital.
-😄 Pronomes: Ela/dela.
-⚡ Curiosidade: Sou apaixonada por resolver problemas complexos através da tecnologia e por compartilhar conhecimento com outras pessoas!
+# Sobre Mim
+Sou QA Tester com foco em garantir a qualidade de software através de testes automatizados. Experiência com Selenium, RestAssured, JUnit e Robot Framework. Apaixonado por melhorar a experiência do usuário e garantir a entrega de produtos de alta qualidade.
 
+## Projetos
 
+Projeto 1: Automação de Testes com Selenium
+- Descrição: Automação de testes de UI utilizando Selenium WebDriver e Java.
+- Tecnologias: Selenium, Java, TestNG.
+- Desafios e Soluções**: Integração com CI/CD e criação de testes robustos.
+- [GitHub](https://github.com/Automacao_Selenium/projeto1)
 
+Projeto 2: Testes de API com RestAssured
+- Descrição: Validação de endpoints RESTful utilizando RestAssured.
+- Tecnologias: RestAssured, JUnit.
+- Desafios e Soluções: Implementação de testes dinâmicos e tratamento de erros.
+- [GitHub](https://github.com/Testes_API_RestAssured/projeto2)
 
-<!---
-crislima188/crislima188 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Automação de Testes: Selenium, Robot Framework.
+- Testes de API: RestAssured.
+- Testes Unitários: JUnit.
+- Testes de Performance: JMeter.
+- Ferramentas: Git, Jenkins, Docker.
+
+## Certificações
+- Certificação em Teste de Software, Mentoria com Júlio de Lima
+- Certificação em Automação de Testes, Flash Code
+
+## Contato
+- Email: crislane0323@gmail.com
+- LinkedIn: [Cris Lima](https://www.linkedin.com/in/crislima-18a3a0268)
+
 You can click the Preview link to take a look at your changes.
 --->
