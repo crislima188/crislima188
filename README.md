@@ -6,8 +6,8 @@ Sou QA Tester com foco em garantir a qualidade de software através de testes au
 Projeto 1: Automação de Testes com Selenium
 - Descrição: Automação de testes de UI utilizando Selenium WebDriver e Java.
 - Tecnologias: Selenium, Java, TestNG.
-- Desafios e Soluções**: Integração com CI/CD e criação de testes robustos.
-- [GitHub](https://github.com/Automacao_Selenium/projeto1)
+- Desafios e Soluções: Integração com CI/CD e criação de testes robustos.
+- [GitHub](https://github.com/AutomacaoSelenium)
 
 Projeto 2: Testes de API com RestAssured
 - Descrição: Validação de endpoints RESTful utilizando RestAssured.
