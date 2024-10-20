@@ -13,7 +13,7 @@ Projeto 2: Testes de API com RestAssured
 - Descrição: Validação de endpoints RESTful utilizando RestAssured.
 - Tecnologias: RestAssured, JUnit.
 - Desafios e Soluções: Implementação de testes dinâmicos e tratamento de erros.
-- [GitHub](https://github.com/Testes_API_RestAssured/projeto2)
+- [GitHub](https://github.com/crislima88/Testes_API_RestAssured/projeto2)
 
 ## Skills
 - Automação de Testes: Selenium, Robot Framework.
