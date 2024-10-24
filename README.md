@@ -28,7 +28,7 @@ Projeto 2: Testes de API com RestAssured
 
 ## Contato
 - Email: crislane0323@gmail.com
-- LinkedIn: [Cris Lima](https://www.linkedin.com/in/crislima-18a3a0268)
+- LinkedIn:[ (linkedin.com/in/cris-lima-18a3a0268)](https://www.linkedin.com/in/cris-lima-18a3a0268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAsEXi9HmSuCr7lgRokXgdg%3D%3D)
 
 You can click the Preview link to take a look at your changes.
 --->
