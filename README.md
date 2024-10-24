@@ -7,13 +7,13 @@ Projeto 1: Automação de Testes com Selenium
 - Descrição: Automação de testes de UI utilizando Selenium WebDriver e Java.
 - Tecnologias: Selenium, Java, TestNG.
 - Desafios e Soluções: Integração com CI/CD e criação de testes robustos.
-- (https://github.com/@crislima188/Automacao_Selenium)
+
 
 Projeto 2: Testes de API com RestAssured
 - Descrição: Validação de endpoints RESTful utilizando RestAssured.
 - Tecnologias: RestAssured, JUnit.
 - Desafios e Soluções: Implementação de testes dinâmicos e tratamento de erros.
-- [GitHub](https://github.com/@crislima88/Testes_API_RestAssured)
+
 
 ## Skills
 - Automação de Testes: Selenium, Robot Framework.
